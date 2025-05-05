@@ -1,0 +1,27 @@
+{
+  "name": "roomy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefannevictoria/roomy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefannevictoria/roomy/issues"
+  },
+  "homepage": "https://github.com/stefannevictoria/roomy#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
